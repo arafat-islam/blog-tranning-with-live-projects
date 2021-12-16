@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,500;0,600;0,700;1,500;1,600&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px !important;
+    line-height: 15px;
+    color: #000;
+    background: url(../images/moroccan-flower-dark/moroccan-flower-dark.png) repeat fixed 0 0 #fff;
+}
+
+
+.headersection {
+    background: #006C05 none repeat scroll 0 0;
+    color: #fff;
+}
+
+
+.navsection {
+    background: none repeat scroll 0 0 #006C59;
+}
+
+.contentsection {
+    background: #006C05 none repeat scroll 0 0;
+    border: 2px solid #006C59;
+}
+
+.maincontent {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #ded4c5;
+}
+.samesidebar h2 {
+    background: #006C55 none repeat scroll 0 0;
+    border-bottom: 2px solid #006C08;
+    color: #fff;
+}
+
+.sidebar {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #ded4c5;
+}
+
+.footersection {
+    background: #006C48;
+}
+
+.footermenu ul li a {
+    color: #fff;
+}
+
+.samepost h2 a {
+    color: #000;
+}
+
+.pagination a:hover {
+    color: #fff;
+    background-color: #006C05;
+}
+
+
+.pagination a { 
+    color: #ddd;
+    background-color: #006C25;
+}
+
+.readmore a {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #006C55;
+    color: #006C55;
+}
+.readmore a:hover {
+    color: #000;
+}
+
+.searchbtn input[type="text"] {
+    border: 1px solid #1C305D;
+    background: #1C305D;
+}
+.searchbtn input[type="submit"] {
+    border: 1px solid #174589;
+}
+input[type="submit"] {
+    background: #174589 none repeat scroll 0 0;
+    border: 1px solid #e6af4b;
+}
+.searchbtn input[type="submit"]:hover {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #174578;
+    color: #000;
+}
+
+.icon a {
+    background: #174589 none repeat scroll 0 0;
+}
+.fixedicon img {
+    transition: 200ms all;
+}
+.fixedicon img:hover {
+    width: 95%;
+}
+
+.samepost h2, .about h2 {
+    border-bottom: 2px solid #000;
+    color: #000;
+}
+
+.logo h2 a  {
+    color: #fff;
+}
+.pagination  {
+    margin-top: 13px !important;
+  }
+
+  
+  .samepost img {
+    border: 1px solid #006C59;
+}
